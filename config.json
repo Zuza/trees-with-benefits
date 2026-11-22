@@ -2,7 +2,10 @@
   "challenge_module": "Challenge",
   "solution_module": "Solution",
   "theorem_names": [
-    "trees_with_benefits"
+    "thm_1_hop_constrained_ramsey_embedding",
+    "thm_2_hop_stretch_lower_bound",
+    "thm_3_expected_distortion_lower_bound",
+    "thm_4_worst_case_distortion_lower_bound"
   ],
   "must_resolve_all_sorries": true,
   "allow_disproofs": false,
