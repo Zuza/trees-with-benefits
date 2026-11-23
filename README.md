@@ -33,3 +33,7 @@ lake exe cache get
 lake build Challenge Solution
 lake env comparator config.json
 ```
+
+## License
+
+Apache License 2.0, see [`LICENSE`](LICENSE).
